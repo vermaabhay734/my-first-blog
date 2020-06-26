@@ -78,4 +78,7 @@ body {
     background: #ebf4fa;
   }
 
-
+/* for comment */
+  .comment {
+    margin: 20px 0px 20px 20px;
+}
